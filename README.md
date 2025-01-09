@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Abraham</h1>
-<h3 align="center">A passionate and hardworking Full-stack developer</h3>
+<h3 align="center">A passionate and hardworking Full-Stack Developer</h3>
 
 - 🌱 I’m currently learning **NestJs,Angular**
 
